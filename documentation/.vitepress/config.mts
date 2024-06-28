@@ -4,6 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "LOL42",
   description: "LOL42 Documentation",
+  base: "/LOL42-Tokenizer/",
   outDir: "./../github-pages",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
