@@ -33,10 +33,17 @@ contract Lol42 is ERC721URIStorage, Ownable {
     */
     uint256 public tokenId; 
 
+    /*
+    ** Initializes the contract with the name and symbol.
+    */
     constructor() ERC721("Lol42", "LOL42") Ownable(msg.sender) {
         tokenId = 0;
     }
 
+    /*
+    ** Mint a new NFT
+    ** onlyOwner: only the owner of the contract can call this function
+    */
     function mint(string memory tokenURI) public onlyOwner returns (uint256) {
         uint256 newItemId = tokenId;
         _safeMint(msg.sender, newItemId);

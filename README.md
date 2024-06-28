@@ -1,3 +1,5 @@
+![LOL42 NFT](./jokes/00.png)
+
 # LOL42 (Tokenizer)
 
 This project, known as **Tokenizer**, is part of the Ecole 42 curriculum. It aims to deepen understanding of the blockchain ecosystem by creating innovative digital assets.
@@ -8,10 +10,10 @@ This project, known as **Tokenizer**, is part of the Ecole 42 curriculum. It aim
 
 ## Project Structure
 
-- **/contracts**: Solidity smart contracts defining the LOL42 token.
-- **/test**: Automated tests to ensure the smart contracts function correctly.
-- **/ignition**: Deploy scripts code.
-- **/documentation**: Documentation of LOL42.
+- `/contracts`: Solidity smart contracts defining the LOL42 token.
+- `/test`: Automated tests to ensure the smart contracts function correctly.
+- `/ignition`: Deploy scripts code.
+- `/documentation`: Documentation of LOL42.
 
 ## Key Decisions and Reasoning
 
