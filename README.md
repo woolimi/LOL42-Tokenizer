@@ -41,7 +41,8 @@ Hardhat provides a flexible and powerful environment for Solidity development. I
 
 **Reasoning**: These attributes add value to the NFT by providing additional context and metadata. The "author" attribute allows for recognition of the joke's creator, while the "language" attribute ensures that the joke can be categorized and understood in its intended linguistic context. This enhances the uniqueness and authenticity of each token.
 
-## Contract Info
+## Related Links
 
+- [LOL42 documentation](https://woolimi.github.io/LOL42-Tokenizer)
 - [Sepolia Lol42 Contract](https://sepolia.etherscan.io/address/0xB6547E90406447A8eA2Dc5BdBaDD016AB066aBd4)
-- [Lol42 Opensea testnet](https://testnets.opensea.io/fr/collection/lol42-1)
+- [LOL42 Opensea testnet](https://testnets.opensea.io/fr/collection/lol42-1)
