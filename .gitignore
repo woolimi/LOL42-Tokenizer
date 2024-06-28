@@ -1,6 +1,7 @@
 node_modules
 .env
 .deps
+/github-pages
 
 # Hardhat files
 /cache
