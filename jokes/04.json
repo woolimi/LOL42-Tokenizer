@@ -1,0 +1,15 @@
+{
+  "name": "lol-04",
+  "external_url": "https://ipfs.io/ipfs/QmQqcogrPvjfW7VLPK35anVfMYsCsiCSXoXoZU9L4uVDCW",
+  "image": "ipfs://QmQqcogrPvjfW7VLPK35anVfMYsCsiCSXoXoZU9L4uVDCW",
+  "attributes": [
+    {
+      "trait_type": "Author",
+      "value": "Ali13"
+    },
+    {
+      "trait_type": "Language",
+      "value": "Français"
+    }
+  ]
+}

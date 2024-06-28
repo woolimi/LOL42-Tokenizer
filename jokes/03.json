@@ -1,0 +1,15 @@
+{
+  "name": "lol-03",
+  "external_url": "https://ipfs.io/ipfs/QmdAkXEQMNHqLp2azAwSkLfq3NVZt3yUp2qHQacEL2wjci",
+  "image": "ipfs://QmdAkXEQMNHqLp2azAwSkLfq3NVZt3yUp2qHQacEL2wjci",
+  "attributes": [
+    {
+      "trait_type": "Author",
+      "value": "GIAN-MARCO"
+    },
+    {
+      "trait_type": "Language",
+      "value": "Français"
+    }
+  ]
+}
